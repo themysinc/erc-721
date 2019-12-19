@@ -1,4 +1,4 @@
-pragma solidity 0.5.6;
+pragma solidity 0.5.12;
 
 import "./erc165.sol";
 
